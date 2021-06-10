@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ocle+qQfxYIui/NSzZHjDHLDzRteYu1F3ZRE/5AUbfpjPzO7rfMhaiiSlixL8iCdORWALOUhxJqX7M7+mGbK/g==",
+  "dgSpecHash": "kfCuISo1ehXhVaIQHE6aFY0SXwBSCaqdNcUssUsWDsGIGmAWG/ZfGyr2STpa1rnANhEOJJrf/2kmVim+ydnixg==",
   "success": true,
   "projectFilePath": "E:\\Vsprojects\\EmguTestV2\\EmguTestUbuntu\\EmguTestUbuntu.csproj",
   "expectedPackageFiles": [
@@ -32,7 +32,6 @@
     "C:\\Users\\GTAgi\\.nuget\\packages\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\GTAgi\\.nuget\\packages\\runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\GTAgi\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
-    "C:\\Users\\GTAgi\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system\\4.3.1\\runtime.ubuntu.16.04-x64.runtime.native.system.4.3.1.nupkg.sha512",
     "C:\\Users\\GTAgi\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\GTAgi\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\GTAgi\\.nuget\\packages\\runtime.unix.system.private.uri\\4.3.0\\runtime.unix.system.private.uri.4.3.0.nupkg.sha512",

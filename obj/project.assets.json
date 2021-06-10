@@ -351,7 +351,7 @@
         }
       }
     },
-    "net5.0/ubuntu.16.04-x64": {
+    "net5.0/ubuntu.20.04-x64": {
       "Emgu.CV/4.5.1.4349": {
         "type": "package",
         "dependencies": {
@@ -370,6 +370,9 @@
         "type": "package",
         "dependencies": {
           "Emgu.CV": "(4.5.1, 4.5.2)"
+        },
+        "native": {
+          "runtimes/ubuntu.20.04-x64/native/libcvextern.so": {}
         }
       },
       "Emgu.CV.runtime.windows/4.5.1.4349": {
@@ -519,8 +522,7 @@
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
-          "Microsoft.NETCore.Targets": "1.1.0",
-          "runtime.ubuntu.16.04-x64.runtime.native.System": "4.3.1"
+          "Microsoft.NETCore.Targets": "1.1.0"
         },
         "compile": {
           "lib/netstandard1.0/_._": {}
@@ -565,18 +567,8 @@
       "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
         "type": "package"
       },
-      "runtime.ubuntu.16.04-x64.runtime.native.System/4.3.1": {
-        "type": "package",
-        "native": {
-          "runtimes/ubuntu.16.04-x64/native/System.Native.a": {},
-          "runtimes/ubuntu.16.04-x64/native/System.Native.so": {}
-        }
-      },
       "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-        "type": "package",
-        "native": {
-          "runtimes/ubuntu.16.04-x64/native/System.Security.Cryptography.Native.OpenSsl.so": {}
-        }
+        "type": "package"
       },
       "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
         "type": "package"
@@ -1367,21 +1359,6 @@
         "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
         "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.nuspec",
         "runtimes/ubuntu.14.04-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
-      ]
-    },
-    "runtime.ubuntu.16.04-x64.runtime.native.System/4.3.1": {
-      "sha512": "BAiNfDlUWjqFn5Ww6uy/ttD8L+HBGFiiYeKt8Mhs8kia/pSOboI+eGWcormUSHVLJ0bUh3jo0k4KIwnpdSfcfw==",
-      "type": "package",
-      "path": "runtime.ubuntu.16.04-x64.runtime.native.system/4.3.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "ThirdPartyNotices.txt",
-        "dotnet_library_license.txt",
-        "runtime.ubuntu.16.04-x64.runtime.native.system.4.3.1.nupkg.sha512",
-        "runtime.ubuntu.16.04-x64.runtime.native.system.nuspec",
-        "runtimes/ubuntu.16.04-x64/native/System.Native.a",
-        "runtimes/ubuntu.16.04-x64/native/System.Native.so"
       ]
     },
     "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -2525,7 +2502,7 @@
       }
     },
     "runtimes": {
-      "ubuntu.16.04-x64": {
+      "ubuntu.20.04-x64": {
         "#import": []
       }
     }
