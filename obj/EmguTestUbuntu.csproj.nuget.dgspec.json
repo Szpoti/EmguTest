@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Vsprojects\\EmguTestV2\\EmguTestUbuntu\\EmguTestUbuntu.csproj": {}
+  },
+  "projects": {
+    "E:\\Vsprojects\\EmguTestV2\\EmguTestUbuntu\\EmguTestUbuntu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Vsprojects\\EmguTestV2\\EmguTestUbuntu\\EmguTestUbuntu.csproj",
+        "projectName": "EmguTestUbuntu",
+        "projectPath": "E:\\Vsprojects\\EmguTestV2\\EmguTestUbuntu\\EmguTestUbuntu.csproj",
+        "packagesPath": "C:\\Users\\GTAgi\\.nuget\\packages\\",
+        "outputPath": "E:\\Vsprojects\\EmguTestV2\\EmguTestUbuntu\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GTAgi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.5.1.4349, )"
+            },
+            "Emgu.CV.runtime.ubuntu.20.04-x64": {
+              "target": "Package",
+              "version": "[4.5.1.4349, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.5.1.4349, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[5.0.6, 5.0.6]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[5.0.6, 5.0.6]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[5.0.6, 5.0.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "ubuntu.16.04-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
