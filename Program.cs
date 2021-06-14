@@ -13,6 +13,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Started!");
+            Console.WriteLine("Loading files");
             Console.WriteLine("videoCapture.ImageGrabbed += Capture_ImageGrabbed;");
             videoCapture.ImageGrabbed += Capture_ImageGrabbed;
             Console.WriteLine("detector = new();");

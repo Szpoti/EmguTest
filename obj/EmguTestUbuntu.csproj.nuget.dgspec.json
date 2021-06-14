@@ -86,7 +86,7 @@
         }
       },
       "runtimes": {
-        "ubuntu.20.04-x64": {
+        "ubuntu.18.04-x64": {
           "#import": []
         }
       }
