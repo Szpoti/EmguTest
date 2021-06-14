@@ -13,9 +13,13 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Started!");
+            Console.WriteLine("videoCapture.ImageGrabbed += Capture_ImageGrabbed;");
             videoCapture.ImageGrabbed += Capture_ImageGrabbed;
+            Console.WriteLine("detector = new();");
             detector = new();
+            Console.WriteLine("videoCapture.Start();");
             videoCapture.Start();
+            Console.WriteLine("waitHandle.WaitOne();");
             waitHandle.WaitOne();
         }
 
