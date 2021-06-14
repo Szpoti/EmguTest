@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FqpLnrlG9m4teFVwuU1KJwHvAQ7PBmqmrowdHls2kEZef4HxMtM06QtRC5/R0hKMbRVU3WIDWJhZMMBawY1i9A==",
+  "dgSpecHash": "kfCuISo1ehXhVaIQHE6aFY0SXwBSCaqdNcUssUsWDsGIGmAWG/ZfGyr2STpa1rnANhEOJJrf/2kmVim+ydnixg==",
   "success": true,
   "projectFilePath": "E:\\Vsprojects\\EmguTestV2\\EmguTestUbuntu\\EmguTestUbuntu.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,6 @@
     "C:\\Users\\GTAgi\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\GTAgi\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\GTAgi\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
-    "C:\\Users\\GTAgi\\.nuget\\packages\\runtime.ubuntu.18.04-x64.runtime.native.system\\4.3.1\\runtime.ubuntu.18.04-x64.runtime.native.system.4.3.1.nupkg.sha512",
     "C:\\Users\\GTAgi\\.nuget\\packages\\runtime.unix.system.private.uri\\4.3.0\\runtime.unix.system.private.uri.4.3.0.nupkg.sha512",
     "C:\\Users\\GTAgi\\.nuget\\packages\\runtime.unix.system.runtime.extensions\\4.3.0\\runtime.unix.system.runtime.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\GTAgi\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
