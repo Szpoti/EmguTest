@@ -1,0 +1,2 @@
+E:\Vsprojects\EmguTestV2\EmguTestUbuntu\bin\Release\net5.0\manualpublish\EmguTestUbuntu.pdb
+E:\Vsprojects\EmguTestV2\EmguTestUbuntu\bin\Release\net5.0\manualpublish\EmguTestUbuntu

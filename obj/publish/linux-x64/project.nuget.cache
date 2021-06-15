@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XQjDmnaXvLG1jrCaT0eQRtmXbevmb8TZlw/prdlZ7IyDFx8Fo6abOclXJr69pz4wz7dVt8nasFLyCIgLNdw/tg==",
+  "dgSpecHash": "xzw8Va0B7YK/BXHxv08HyVv3C0FF8dx7WzBZhu/bZpRXdVFrXt525iSDbnSZJw1KGqu5XTat+ZdlagIqSrsGWA==",
   "success": true,
   "projectFilePath": "E:\\Vsprojects\\EmguTestV2\\EmguTestUbuntu\\EmguTestUbuntu.csproj",
   "expectedPackageFiles": [
@@ -52,6 +52,8 @@
     "C:\\Users\\GTAgi\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\GTAgi\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\GTAgi\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\GTAgi\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.6\\microsoft.netcore.app.runtime.linux-x64.5.0.6.nupkg.sha512",
+    "C:\\Users\\GTAgi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.6\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.6.nupkg.sha512",
     "C:\\Users\\GTAgi\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.6\\microsoft.netcore.app.host.linux-x64.5.0.6.nupkg.sha512"
   ],
   "logs": [
